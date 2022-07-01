@@ -1,0 +1,33 @@
+entity,date,coins,avg.cost,cumulative.avg,cumulative.coins
+Michael Saylor / Microstrategy,2020-08-11,21454,11653,11653,21454
+Michael Saylor / Microstrategy,2020-09-14,16796,10419,11111,38250
+Michael Saylor / Microstrategy,2020-12-04,2574,19427,11635,40824
+Michael Saylor / Microstrategy,2020-12-21,29646,21925,15964,70470
+Michael Saylor / Microstrategy,2021-01-22,314,31808,16035,70784
+Michael Saylor / Microstrategy,2021-02-02,295,33810,16109,71079
+Michael Saylor / Microstrategy,2021-02-24,19452,52765,23985,90531
+Michael Saylor / Microstrategy,2021-03-01,328,45710,24063,90859
+Michael Saylor / Microstrategy,2021-03-05,205,48888,24119,91064
+Michael Saylor / Microstrategy,2021-03-12,262,57146,24214,91326
+Michael Saylor / Microstrategy,2021-04-05,253,59339,24311,91579
+Michael Saylor / Microstrategy,2021-05-13,271,55387,24403,91850
+Michael Saylor / Microstrategy,2021-05-18,229,43663,24450,92079
+Michael Saylor / Microstrategy,2021-07-29,13005,37617,26080,105085
+Michael Saylor / Microstrategy,2021-08-24,3907,45294,26769,108992
+Michael Saylor / Microstrategy,2021-09-13,5050,48099,27713,114042
+Michael Saylor / Microstrategy,2021-11-29,7002,59187,29534,121044
+Michael Saylor / Microstrategy,2021-12-09,1434,57477,29861,122478
+Michael Saylor / Microstrategy,2021-12-30,1914,49229,30159,124391
+Michael Saylor / Microstrategy,2022-02-01,660,37865,30200,125051
+Michael Saylor / Microstrategy,2022-04-05,4167,45714,30700,129218
+Michael Saylor / Microstrategy,2022-06-29,480,20817,30664,129699
+Nayib Bukele / El Salvador,2021-09-05,200,46700,46700,200
+Nayib Bukele / El Salvador,2021-09-06,200,46800,46750,400
+Nayib Bukele / El Salvador,2021-09-07,150,46300,46627,550
+Nayib Bukele / El Salvador,2021-09-19,150,43100,45871,700
+Nayib Bukele / El Salvador,2021-10-27,420,58800,50719,1120
+Nayib Bukele / El Salvador,2021-11-26,100,54200,51004,1220
+Nayib Bukele / El Salvador,2021-12-03,150,48670,50749,1370
+Nayib Bukele / El Salvador,2021-12-21,21,49300,50727,1391
+Nayib Bukele / El Salvador,2022-01-21,410,36585,47507,1801
+Nayib Bukele / El Salvador,2022-05-09,500,30744,43865,2301
